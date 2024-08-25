@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: white;
+}
+main img{
+   width: 632px;
+   height: 200px;
+   text-align: center;
+}
+main h2{
+    text-align: center;
+    color: blue;
+}
+body{
+    background-image: url(https://mir-oboev.ua/image/cache/catalog/oboi/3831-81-1000x1000.jpg);
+}
+html{
+    color: rgb(123, 6, 146);
+}
+header a{
+    background-color: #EF930A;
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    border: 1px solid #EF930A;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 50px;
+}
+
+footer a {
+    text-decoration: none;
+    background-color: white;
+    padding: 5px;
+}
+footer {
+    background-color: #8fddf2;
+    padding: 10px;
+}
+
+nav a{
+    display: flex;
+}
